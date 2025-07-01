@@ -1,0 +1,14 @@
+{
+	"Name": "HFSM2",
+	"Version": "2.7.1",
+	"MinEngineVersion": "1.10",
+	"Company": "Andrew Gresyk",
+	"Copyright": "Copyright (c) 2023 Andrew Gresyk",
+	"GameTarget": "HFSM2Target",
+	"EditorTarget": "HFSM2EditorTarget",
+	"References": [
+		{
+			"Name": "$(EnginePath)/Flax.flaxproj"
+		}
+	]
+}
